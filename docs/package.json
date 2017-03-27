@@ -1,0 +1,9 @@
+{
+  "name": "abtest",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "latest"
+  }
+}
